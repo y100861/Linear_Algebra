@@ -1,0 +1,8 @@
+# 특이값(Singular Value Decomposition) 분해
+
+
+## 특이값 분해
+
+- 직사각 행렬을 대상으로 함
+- $A = U\SigmaV^T$
+  - $U, V$ 모두 Orthonormal(길이가 1이고, 벡터들이 수직을 이루고 있음)한 벡터들로 구성되어야 함
